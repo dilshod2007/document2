@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+
+a {
+text-decoration: none;
+color:blueviolet;
+margin: 0px 20px;
+
+}
+nav {
+    padding: 20px;
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    background-color:#aaa;
+}
+#home {
+    height: 100vh;
+    background-color:pink;
+    padding: 40px;
+}
+#shop {
+    height: 100vh;
+    background-color:yellow;
+    padding: 40px;
+}
+#contact {
+    height: 100vh;
+    background-color:rgb(237, 140, 14);
+    padding: 40px;
+}
+#footer {
+    height:100vh;
+    background-color:aqua;
+    padding:40px;
+}
